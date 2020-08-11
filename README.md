@@ -14,3 +14,10 @@ For users that need to keep track of a lot of information, it's easy to forget o
 https://calm-everglades-59570.herokuapp.com/
 
 https://github.com/Kennyward85/Note-Taker
+
+# Sources 
+
+https://www.w3schools.com/jsref/jsref_filter.asp
+https://expressjs.com/en/guide/routing.html
+
+Also worked directly on this with my Wyzant Tutor
