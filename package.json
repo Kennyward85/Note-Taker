@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/Kennyward85/Note-Taker#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "mysql": "^2.18.1",
     "uuidv1": "^1.6.14"
   }
